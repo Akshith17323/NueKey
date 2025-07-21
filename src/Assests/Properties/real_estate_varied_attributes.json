@@ -1,0 +1,2461 @@
+{
+  "properties": [
+    {
+      "id": "PROP001",
+      "address": "828 Ghose Chowk, Kolkata, West Bengal 757528",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "pincode": "757528",
+      "type": "Apartment",
+      "floorspace_sqft": 2000,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "price_inr": 26800000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-05-07T12:07:49.255424"
+    },
+    {
+      "id": "PROP002",
+      "address": "547 Chana Road, Chennai, Tamil Nadu 174802",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "174802",
+      "type": "Apartment",
+      "floorspace_sqft": 1800,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "price_inr": 21700000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-05-28T12:07:49.255502"
+    },
+    {
+      "id": "PROP003",
+      "address": "142 Sachar Ganj, Lucknow, Uttar Pradesh 566946",
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "pincode": "566946",
+      "type": "Apartment",
+      "floorspace_sqft": 1800,
+      "bedrooms": 4,
+      "bathrooms": 1,
+      "price_inr": 29800000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-05-09T12:07:49.255563"
+    },
+    {
+      "id": "PROP004",
+      "address": "726 Raja Zila, Ahmedabad, Gujarat 304663",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "pincode": "304663",
+      "type": "Apartment",
+      "floorspace_sqft": 900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "price_inr": 24600000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-04-22T12:07:49.255615"
+    },
+    {
+      "id": "PROP005",
+      "address": "76 Johal Circle, Ahmedabad, Gujarat 505696",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "pincode": "505696",
+      "type": "Apartment",
+      "floorspace_sqft": 1200,
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "price_inr": 25000000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-05-14T12:07:49.255666"
+    },
+    {
+      "id": "PROP006",
+      "address": "228 Bobal Path, Lucknow, Uttar Pradesh 475833",
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "pincode": "475833",
+      "type": "Apartment",
+      "floorspace_sqft": 1000,
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "price_inr": 23800000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-04-29T12:07:49.255715"
+    },
+    {
+      "id": "PROP007",
+      "address": "994 Goswami Zila, Hyderabad, Telangana 695088",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "695088",
+      "type": "Apartment",
+      "floorspace_sqft": 1200,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "price_inr": 21100000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-05-16T12:07:49.255763"
+    },
+    {
+      "id": "PROP008",
+      "address": "980 Samra Path, Pune, Maharashtra 071674",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "pincode": "071674",
+      "type": "Apartment",
+      "floorspace_sqft": 1000,
+      "bedrooms": 4,
+      "bathrooms": 1,
+      "price_inr": 26200000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-04-19T12:07:49.255824"
+    },
+    {
+      "id": "PROP009",
+      "address": "37 Setty Marg, Kolkata, West Bengal 231756",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "pincode": "231756",
+      "type": "Apartment",
+      "floorspace_sqft": 1200,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "price_inr": 21500000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-05-13T12:07:49.255873"
+    },
+    {
+      "id": "PROP010",
+      "address": "656 Butala, Kolkata, West Bengal 875699",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "pincode": "875699",
+      "type": "Apartment",
+      "floorspace_sqft": 1000,
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "price_inr": 24800000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-05-15T12:07:49.255919"
+    },
+    {
+      "id": "PROP011",
+      "address": "179 Jayaraman Marg, Bengaluru, Karnataka 844012",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "pincode": "844012",
+      "type": "Apartment",
+      "floorspace_sqft": 1800,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "price_inr": 26900000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-05-27T12:07:49.255965"
+    },
+    {
+      "id": "PROP012",
+      "address": "368 Kalita Chowk, Pune, Maharashtra 007400",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "pincode": "007400",
+      "type": "Apartment",
+      "floorspace_sqft": 1200,
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "price_inr": 27400000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-06-02T12:07:49.256010"
+    },
+    {
+      "id": "PROP013",
+      "address": "250 Subramanian Zila, Hyderabad, Telangana 482985",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "482985",
+      "type": "Apartment",
+      "floorspace_sqft": 1500,
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "price_inr": 25700000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-05-01T12:07:49.256055"
+    },
+    {
+      "id": "PROP014",
+      "address": "51 Sastry Zila, Pune, Maharashtra 929888",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "pincode": "929888",
+      "type": "Apartment",
+      "floorspace_sqft": 1000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "price_inr": 25800000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-05-07T12:07:49.256091"
+    },
+    {
+      "id": "PROP015",
+      "address": "990 Bath Zila, Delhi, Delhi 151436",
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "151436",
+      "type": "Apartment",
+      "floorspace_sqft": 1500,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "price_inr": 27900000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-06-02T12:07:49.256116"
+    },
+    {
+      "id": "PROP016",
+      "address": "726 Bali Nagar, Ahmedabad, Gujarat 130043",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "pincode": "130043",
+      "type": "Apartment",
+      "floorspace_sqft": 1000,
+      "bedrooms": 5,
+      "bathrooms": 1,
+      "price_inr": 23400000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-06-06T12:07:49.256141"
+    },
+    {
+      "id": "PROP017",
+      "address": "817 Ganesan Chowk, Chennai, Tamil Nadu 129506",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "129506",
+      "type": "Apartment",
+      "floorspace_sqft": 900,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "price_inr": 23300000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-05-30T12:07:49.256166"
+    },
+    {
+      "id": "PROP018",
+      "address": "240 Tiwari Street, Chennai, Tamil Nadu 047923",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "047923",
+      "type": "Apartment",
+      "floorspace_sqft": 900,
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "price_inr": 24500000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-05-02T12:07:49.256191"
+    },
+    {
+      "id": "PROP019",
+      "address": "623 Hans Zila, Mumbai, Maharashtra 812811",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "812811",
+      "type": "Apartment",
+      "floorspace_sqft": 1500,
+      "bedrooms": 2,
+      "bathrooms": 3,
+      "price_inr": 26000000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-05-19T12:07:49.256230"
+    },
+    {
+      "id": "PROP020",
+      "address": "385 Thaman Street, Mumbai, Maharashtra 448592",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "448592",
+      "type": "Apartment",
+      "floorspace_sqft": 900,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "price_inr": 23000000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-04-23T12:07:49.256266"
+    },
+    {
+      "id": "PROP021",
+      "address": "938 Sarkar Chowk, Delhi, Delhi 553239",
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "553239",
+      "type": "Apartment",
+      "floorspace_sqft": 2000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "price_inr": 20000000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-05-02T12:07:49.256294"
+    },
+    {
+      "id": "PROP022",
+      "address": "589 Bhardwaj Zila, Jaipur, Rajasthan 236943",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "pincode": "236943",
+      "type": "Apartment",
+      "floorspace_sqft": 900,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "price_inr": 24400000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-04-17T12:07:49.256320"
+    },
+    {
+      "id": "PROP023",
+      "address": "176 Gade Circle, Jaipur, Rajasthan 109625",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "pincode": "109625",
+      "type": "Apartment",
+      "floorspace_sqft": 900,
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "price_inr": 22500000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-05-19T12:07:49.256345"
+    },
+    {
+      "id": "PROP024",
+      "address": "760 Chander Nagar, Jaipur, Rajasthan 766735",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "pincode": "766735",
+      "type": "Apartment",
+      "floorspace_sqft": 2000,
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "price_inr": 25900000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-05-02T12:07:49.256368"
+    },
+    {
+      "id": "PROP025",
+      "address": "331 Malhotra Road, Bengaluru, Karnataka 898689",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "pincode": "898689",
+      "type": "Apartment",
+      "floorspace_sqft": 1000,
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "price_inr": 21600000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-05-22T12:07:49.256392"
+    },
+    {
+      "id": "PROP026",
+      "address": "471 Maharaj Road, Ahmedabad, Gujarat 948025",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "pincode": "948025",
+      "type": "Apartment",
+      "floorspace_sqft": 1000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "price_inr": 29100000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-06-01T12:07:49.256417"
+    },
+    {
+      "id": "PROP027",
+      "address": "757 Dua Road, Mumbai, Maharashtra 343217",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "343217",
+      "type": "Apartment",
+      "floorspace_sqft": 2000,
+      "bedrooms": 2,
+      "bathrooms": 3,
+      "price_inr": 29500000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-05-02T12:07:49.256445"
+    },
+    {
+      "id": "PROP028",
+      "address": "129 Bhakta Circle, Kolkata, West Bengal 823861",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "pincode": "823861",
+      "type": "Apartment",
+      "floorspace_sqft": 1200,
+      "bedrooms": 4,
+      "bathrooms": 1,
+      "price_inr": 25600000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-04-18T12:07:49.256468"
+    },
+    {
+      "id": "PROP029",
+      "address": "710 Ramakrishnan Street, Pune, Maharashtra 735081",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "pincode": "735081",
+      "type": "Apartment",
+      "floorspace_sqft": 1500,
+      "bedrooms": 5,
+      "bathrooms": 1,
+      "price_inr": 20400000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-06-01T12:07:49.256493"
+    },
+    {
+      "id": "PROP030",
+      "address": "406 Hans Circle, Pune, Maharashtra 577062",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "pincode": "577062",
+      "type": "Apartment",
+      "floorspace_sqft": 1000,
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "price_inr": 22700000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-05-05T12:07:49.256518"
+    },
+    {
+      "id": "PROP031",
+      "address": "419 Ganguly Road, Delhi, Delhi 379925",
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "379925",
+      "type": "Apartment",
+      "floorspace_sqft": 1500,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "price_inr": 23500000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-05-05T12:07:49.256542"
+    },
+    {
+      "id": "PROP032",
+      "address": "869 Bhandari Path, Mumbai, Maharashtra 532117",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "532117",
+      "type": "Apartment",
+      "floorspace_sqft": 1500,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "price_inr": 21400000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-05-16T12:07:49.256566"
+    },
+    {
+      "id": "PROP033",
+      "address": "496 Sami Chowk, Delhi, Delhi 224595",
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "224595",
+      "type": "Apartment",
+      "floorspace_sqft": 1000,
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "price_inr": 25300000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-04-27T12:07:49.256591"
+    },
+    {
+      "id": "PROP034",
+      "address": "444 Chandran Marg, Chennai, Tamil Nadu 496527",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "496527",
+      "type": "Apartment",
+      "floorspace_sqft": 900,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "price_inr": 20100000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-04-21T12:07:49.256616"
+    },
+    {
+      "id": "PROP035",
+      "address": "339 Upadhyay Road, Kolkata, West Bengal 382241",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "pincode": "382241",
+      "type": "Apartment",
+      "floorspace_sqft": 900,
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "price_inr": 29200000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-05-20T12:07:49.256648"
+    },
+    {
+      "id": "PROP036",
+      "address": "852 Datta, Pune, Maharashtra 010674",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "pincode": "010674",
+      "type": "Apartment",
+      "floorspace_sqft": 2000,
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "price_inr": 21300000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-05-04T12:07:49.256684"
+    },
+    {
+      "id": "PROP037",
+      "address": "64 Saha Marg, Chennai, Tamil Nadu 559807",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "559807",
+      "type": "Apartment",
+      "floorspace_sqft": 1500,
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "price_inr": 26100000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-05-18T12:07:49.256709"
+    },
+    {
+      "id": "PROP038",
+      "address": "265 Kalita Marg, Ahmedabad, Gujarat 527631",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "pincode": "527631",
+      "type": "Apartment",
+      "floorspace_sqft": 1500,
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "price_inr": 20800000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-04-23T12:07:49.256732"
+    },
+    {
+      "id": "PROP039",
+      "address": "189 Zacharia Chowk, Lucknow, Uttar Pradesh 152995",
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "pincode": "152995",
+      "type": "Apartment",
+      "floorspace_sqft": 2000,
+      "bedrooms": 5,
+      "bathrooms": 1,
+      "price_inr": 24700000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-05-23T12:07:49.256757"
+    },
+    {
+      "id": "PROP040",
+      "address": "529 Shanker Chowk, Kolkata, West Bengal 665436",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "pincode": "665436",
+      "type": "Apartment",
+      "floorspace_sqft": 1200,
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "price_inr": 27300000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-04-11T12:07:49.256783"
+    },
+    {
+      "id": "PROP041",
+      "address": "416 Thakur Zila, Lucknow, Uttar Pradesh 997467",
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "pincode": "997467",
+      "type": "Apartment",
+      "floorspace_sqft": 1000,
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "price_inr": 29900000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-04-16T12:07:49.256808"
+    },
+    {
+      "id": "PROP042",
+      "address": "442 Sharma Nagar, Lucknow, Uttar Pradesh 624054",
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "pincode": "624054",
+      "type": "Apartment",
+      "floorspace_sqft": 2000,
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "price_inr": 28800000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-04-22T12:07:49.256831"
+    },
+    {
+      "id": "PROP043",
+      "address": "586 Dubey Circle, Mumbai, Maharashtra 440075",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "440075",
+      "type": "Apartment",
+      "floorspace_sqft": 1000,
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "price_inr": 26500000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-04-13T12:07:49.256855"
+    },
+    {
+      "id": "PROP044",
+      "address": "767 Venkatesh Road, Hyderabad, Telangana 169835",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "169835",
+      "type": "Apartment",
+      "floorspace_sqft": 1000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "price_inr": 26400000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-05-02T12:07:49.256879"
+    },
+    {
+      "id": "PROP045",
+      "address": "863 Chokshi Path, Lucknow, Uttar Pradesh 169180",
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "pincode": "169180",
+      "type": "Apartment",
+      "floorspace_sqft": 1200,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "price_inr": 27100000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-04-21T12:07:49.256903"
+    },
+    {
+      "id": "PROP046",
+      "address": "80 Varty Circle, Delhi, Delhi 466380",
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "466380",
+      "type": "Apartment",
+      "floorspace_sqft": 1200,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "price_inr": 20900000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-04-23T12:07:49.256927"
+    },
+    {
+      "id": "PROP047",
+      "address": "933 Wali Street, Chennai, Tamil Nadu 438846",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "438846",
+      "type": "Apartment",
+      "floorspace_sqft": 1500,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "price_inr": 22900000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-05-27T12:07:49.256954"
+    },
+    {
+      "id": "PROP048",
+      "address": "116 Chaudhuri Marg, Hyderabad, Telangana 474303",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "474303",
+      "type": "Apartment",
+      "floorspace_sqft": 1800,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "price_inr": 24000000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-04-16T12:07:49.256978"
+    },
+    {
+      "id": "PROP049",
+      "address": "752 Johal Road, Jaipur, Rajasthan 333917",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "pincode": "333917",
+      "type": "Apartment",
+      "floorspace_sqft": 900,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "price_inr": 24300000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-06-01T12:07:49.257002"
+    },
+    {
+      "id": "PROP050",
+      "address": "503 Dugar Street, Pune, Maharashtra 968724",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "pincode": "968724",
+      "type": "Apartment",
+      "floorspace_sqft": 1500,
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "price_inr": 22200000,
+      "parking": 1,
+      "construction_features": [
+        "elevator",
+        "gym"
+      ],
+      "health_features": {
+        "walkability_score": 85,
+        "proximity_to_park_km": 0.5,
+        "proximity_to_gym_km": 0.2,
+        "proximity_to_healthcare_km": 1.0,
+        "proximity_to_healthy_food_market_km": 0.8,
+        "air_quality_index": 60
+      },
+      "community_features": {
+        "public_transport_access": "Metro Station (500m)",
+        "school_rating": 8.5,
+        "crime_rate": "Low"
+      },
+      "images": [
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg",
+          "type": "exterior",
+          "caption": "Modern apartment building"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/04/10/22/28/residence-2219972_1280.jpg",
+          "type": "interior",
+          "caption": "Interior view"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2016/11/29/03/53/apartment-1866777_1280.jpg",
+          "type": "community",
+          "caption": "Community area"
+        }
+      ],
+      "listing_status": "For Sale",
+      "last_updated": "2025-04-14T12:07:49.257035"
+    }
+  ],
+  "metadata": {
+    "total_properties": 50,
+    "last_updated": "2025-06-09T12:07:49.257180",
+    "source": "Synthetic Real Estate Data",
+    "api_version": "1.0",
+    "image_source": "Pixabay (Royalty-free, commercial use permitted)"
+  }
+}
