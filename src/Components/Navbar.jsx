@@ -20,9 +20,6 @@ function Navbar() {
                 <button className="nav-animate bg-stone-950 rounded-lg h-8 px-3 border border-white hover:bg-white hover:text-stone-950 transition">
                 Login
                 </button>
-                <button className="nav-animate bg-stone-950 rounded-lg h-8 px-3 border border-white hover:bg-white hover:text-stone-950 transition">
-                SignUp
-                </button>
             </div>
 
         </nav>
