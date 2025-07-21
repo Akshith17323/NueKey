@@ -33,7 +33,7 @@ function Navbar() {
     //   </div>
     // </div>
     <div className='flex justify-center '>
-        <nav className='fixed z-50 flex justify-between  mt-2.5 py-1 px-4 w-[90vw] bg-stone-950 text-white'>
+        <nav className='fixed z-50 flex justify-between  mt-2.5 py-1 px-4 w-[90vw] bg-stone-950 text-white  rounded-xl'>
             <div className='logo text-2xl'>NueKey</div>
             <div className='flex gap-4 items-center'>
                 <a>Home</a>
