@@ -1,11 +1,13 @@
 import React from 'react'
 import Footer from './Footer'
+import Navbar from './Navbar'
 
 function Herosection() {
   return (
-
+  
     <main className="bg-[url('src/Assests/Key_to_a_door.jpg')] bg-cover bg-center h-screen overflow-auto hide-scrollbar">
-      
+      <Navbar/>
+
       <section className="flex flex-col items-center justify-center h-full bg-black/75 gap-16">
       <div className='justify-center flex flex-col mx-4 backdrop-blur-xl border-white rounded-2xl'> 
 
