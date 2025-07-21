@@ -4,6 +4,7 @@ import Navbar from "./Navbar";
 import Contactform from "./Contactform";
 import FeatureProducts from "./FeatureProducts";
 import PropertyCard from "./PropertyCard";
+import SearchBar from "./SearchBar";
 
 function Herosection() {
   return (
@@ -35,6 +36,8 @@ function Herosection() {
       </section>
       <FeatureProducts/>
       <Footer />
+
+      <SearchBar/>
     </main>
   );
 }

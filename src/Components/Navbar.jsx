@@ -12,9 +12,9 @@ function Navbar() {
             <div className='logo text-2xl'>NueKey</div>
             <div className='flex gap-4 items-center'>
                 <a>Home</a>
-                <a className="link-item nav-animate">Contact Us</a>
                 <a className="link-item nav-animate">Wishlist</a>
                 <a className='link-item nav-animate'>About Us</a>
+                <a className="link-item nav-animate">Contact Us</a>
             </div>
             <div className='flex gap-1'>
                 <button className="nav-animate bg-stone-950 rounded-lg h-8 px-3 border border-white hover:bg-white hover:text-stone-950 transition">
