@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css'
 import Landing from './Components/Landing'
-import Herosection from './Components/Herosection'
+import Herosection from './Components/HeroSection'
 import Navbar from './Components/Navbar';
 import Footer from './Components/Footer';
 
@@ -13,11 +13,10 @@ function App() {
         <Navbar/>
 
           <Routes>
-            <Route path='/' element={<Landing/>}></Route>
-            <Route path='/hero' element={<Herosection/>}></Route>
+            <Route path='/' element={<Landing/>}/>
+            <Route path='/hero' element={<Herosection/>}/>
           </Routes>
 
-        
       </Router>
       
         
