@@ -8,7 +8,7 @@ import Footer from './Components/Footer';
 function App() {
 
   return (
-    <main className="bg-[url('src/Assests/Key_to_a_door.jpg')] bg-cover bg-center h-screen overflow-auto hide-scrollbar ">
+    <main className="bg-[url('/Key_to_a_door.jpg')] bg-cover bg-center h-screen overflow-auto hide-scrollbar ">
       <Router>
         <Navbar/>
 
