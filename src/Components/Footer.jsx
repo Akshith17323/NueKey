@@ -4,7 +4,7 @@ import react from 'react'
 
 function Footer() {
   return (
-    <footer className="bg-zinc-900 text-gray-300 py-6">
+    <footer className="bg-zinc-900 text-gray-300 py-6 w-screen">
       <div className="container mx-auto flex flex-col items-center space-y-4">
         <div className="flex space-x-6">
           <a href="#" className="hover:text-white transition"><FaFacebookF size={24} /></a>

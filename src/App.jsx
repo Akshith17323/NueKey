@@ -1,9 +1,10 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css'
 import Landing from './Components/Landing'
-import Herosection from './Components/HeroSection'
+import HeroSection from './Components/Herosection';
 import Navbar from './Components/Navbar';
 import Footer from './Components/Footer';
+import PropertyDetails from './Components/PropertyDetails';
 
 function App() {
 
@@ -14,7 +15,7 @@ function App() {
 
           <Routes>
             <Route path='/' element={<Landing/>}/>
-            <Route path='/hero' element={<Herosection/>}/>
+            <Route path='/hero' element={<HeroSection/>}/>
           </Routes>
 
       </Router>

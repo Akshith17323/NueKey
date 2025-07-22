@@ -12,8 +12,8 @@ function FeatureProducts() {
   }, []);
 
   return (
-    <main className='bg-black/60 '>
-        <p className='text-4xl p-6 text-white'>Featured Products</p>
+    <main className=''>
+        <p className='text-4xl p-6 color-'>Featured Products</p>
         <secion className="grid justify-between lg:grid-cols-3  sm:grid-cols-2 grid-rows-none gap-5">
         {properties.map((property) => (
             <PropertyCard key={property.id} property={property} />

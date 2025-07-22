@@ -2,7 +2,7 @@ import react from 'react'
 
 function Contactform() {
   return (
-    <div className="w-full max-w-md p-6 rounded-2xl border border-white/30 backdrop-blur-lg bg-white/10 text-white">
+    <div className="w-full max-w-md p-6 rounded-2xl border border-white/30 backdrop-blur-lg bg-black/45 text-white mt-4">
       <h2 className="text-3xl mb-6 text-center font-semibold">Get in touch</h2>
       <form className="flex flex-col gap-4">
         <div>

@@ -1,7 +1,7 @@
 import React from 'react'
 import PropertyList from './PropertyLIst'
 
-function Herosection() {
+function HeroSection() {
   return (
     <main>
         <PropertyList/>
@@ -9,4 +9,4 @@ function Herosection() {
   )
 }
 
-export default Herosection
+export default HeroSection

@@ -2,7 +2,7 @@ import React from 'react';
 
 function PropertyCard({ property }) {
   return (
-    <div className="flex flex-col md:flex-row gap-4 p-4 rounded-2xl border border-white/30 bg-white/10 backdrop-blur-lg text-white shadow-lg transform transition duration-300 ease-in-out hover:scale-105 hover:shadow-2xl">
+    <div className="flex flex-col md:flex-row gap-4 p-4 rounded-2xl border border-white/30 bg-black/45 backdrop-blur-lg text-white shadow-lg transform transition duration-300 ease-in-out hover:scale-105 hover:shadow-2xl">
       <img
         src={property.images[0].url}
         alt={property.images[0].caption}
