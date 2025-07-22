@@ -9,7 +9,6 @@ import SearchBar from "./SearchBar";
 function Landing() {
   return (
     <main className="bg-[url('src/Assests/Key_to_a_door.jpg')] bg-cover bg-center h-screen overflow-auto hide-scrollbar ">
-      <Navbar />
       <section className="flex items-center justify-center h-full gap-16 bg-black/60 md:flex-col rounded">
         <div className="justify-center flex flex-col mx-4 backdrop-blur-xl border-white rounded-2xl h-[40%]">
           {/* <div className=" text-white text-center text-5xl md:py-24 md:text-9xl">NueKey</div> */}
@@ -35,9 +34,7 @@ function Landing() {
         
       </section>
       <FeatureProducts/>
-      <Footer />
-
-      <SearchBar/>
+      <Footer/>
     </main>
   );
 }
