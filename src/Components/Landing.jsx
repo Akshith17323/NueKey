@@ -6,7 +6,7 @@ import FeatureProducts from "./FeatureProducts";
 import PropertyCard from "./PropertyCard";
 import SearchBar from "./SearchBar";
 
-function Herosection() {
+function Landing() {
   return (
     <main className="bg-[url('src/Assests/Key_to_a_door.jpg')] bg-cover bg-center h-screen overflow-auto hide-scrollbar ">
       <Navbar />
@@ -42,4 +42,4 @@ function Herosection() {
   );
 }
 
-export default Herosection;
+export default Landing;

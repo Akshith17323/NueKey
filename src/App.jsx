@@ -1,14 +1,13 @@
-
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css'
-import Herosection from './Components/Landing'
+import Landing from './Components/Landing'
+import Herosection from './Components/Herosection'
 
 function App() {
 
 
   return (
-    <>
-    <Herosection/>
-    </>
+    <></>
   )
 }
 

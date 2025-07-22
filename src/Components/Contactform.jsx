@@ -1,3 +1,5 @@
+import react from 'react'
+
 function Contactform() {
   return (
     <div className="w-full max-w-md p-6 rounded-2xl border border-white/30 backdrop-blur-lg bg-white/10 text-white">

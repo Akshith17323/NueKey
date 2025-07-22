@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import PropertySearchBar from './PropertySearchBar';
+import SearchBar from './SearchBar';
 import PropertyCard from './PropertyCard';
 
 function PropertyList() {
@@ -7,12 +7,13 @@ function PropertyList() {
   const [filtered, setFiltered] = useState([]);
 
   useEffect(() => {
-    fetch('/real_estate_varied_attributes.json')
+    fetch('src/Assests/Properties/real_estate_varied_attributes.json')
       .then((res) => res.json())
       .then((data) => {
         setAllProperties(data.properties);
         setFiltered(data.properties);
-      });
+      })
+      .catch((err) => console.error('Error loading data:', err));
   }, []);
 
   const handleSearch = ({ address, bhk, area }) => {
@@ -27,8 +28,8 @@ function PropertyList() {
   };
 
   return (
-    <div className='bg-black/60'>
-      <PropertySearchBar onSearch={handleSearch} />
+    <div className='bg-black/60 min-h-screen'>
+      <SearchBar onSearch={handleSearch} />
       <div className="flex flex-wrap justify-center gap-4 p-6">
         {filtered.map((property) => (
           <PropertyCard key={property.id} property={property} />
