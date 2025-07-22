@@ -19,10 +19,7 @@ function SearchBar({ onSearch }) {
   return (
     <form
       onSubmit={handleSubmit}
-      className="w-full md:w-[90%] lg:w-[70%] mx-auto mt-10 
-                 p-6 rounded-2xl border border-white/30 
-                 bg-white/10 backdrop-blur-lg text-white shadow-lg"
-    >
+      className="w-full md:w-[90%] lg:w-[70%] mx-auto mt-10  p-6 rounded-2xl border border-white/30  bg-black/45 backdrop-blur-lg text-white shadow-lg" >
       <div className="flex flex-col md:flex-row gap-4">
         <input type="text" name="address" placeholder="Search by address" value={query.address} onChange={handleChange} className="w-full px-4 py-2 rounded bg-transparent border-b-2 border-white text-white placeholder-white/70 focus:outline-none"/>
 

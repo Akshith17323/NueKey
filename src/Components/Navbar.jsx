@@ -42,8 +42,11 @@ function Navbar() {
                   console.log('menu hidden')}}>Wishlist</p>
                 <a className='link-item nav-animate' onClick={(e)=> {e.preventDefault() 
                   setMenu(false)}}>About Us</a>
-                <a className="link-item nav-animate" onClick={(e)=> {e.preventDefault()
-                  setMenu(false)}}>Contact Us</a>
+
+                <a className="link-item nav-animate" onClick={(e)=> {e.preventDefault() 
+                  navigate('/contactus')
+                  setMenu(false)}}
+                  >Contact Us</a>
             </div>
             )}
         </nav>

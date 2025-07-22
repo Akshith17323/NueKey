@@ -28,7 +28,7 @@ function PropertyList() {
   };
 
   return (
-    <div className='bg-black/60 min-h-screen pt-10'>
+    <div className=' min-h-screen pt-10'>
       <SearchBar onSearch={handleSearch} />
       <div className="grid grid-cols-1 justify-center gap-4 p-6 md:grid-cols-2 lg:grid-cols-3">
         {filtered.map((property) => (
