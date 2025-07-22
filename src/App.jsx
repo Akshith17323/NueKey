@@ -5,6 +5,9 @@ import HeroSection from './Components/Herosection';
 import Navbar from './Components/Navbar';
 import Footer from './Components/Footer';
 import PropertyDetails from './Components/PropertyDetails';
+import ContactUs from './Components/ContactUs'
+import SignIn from './Components/SignIn';
+import Login from './Components/Login'
 
 function App() {
 
@@ -16,6 +19,9 @@ function App() {
           <Routes>
             <Route path='/' element={<Landing/>}/>
             <Route path='/hero' element={<HeroSection/>}/>
+            <Route path='/contactus' element={<ContactUs/>}/>
+            <Route path='/signin' element={<SignIn/>}/>
+            <Route path='/login' element={<Login/>}/>
           </Routes>
 
       </Router>
