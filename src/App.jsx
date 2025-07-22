@@ -8,6 +8,7 @@ import PropertyDetails from './Components/PropertyDetails';
 import ContactUs from './Components/ContactUs'
 import SignIn from './Components/SignIn';
 import Login from './Components/Login'
+import AboutUs from './Components/AboutUs';
 
 function App() {
 
@@ -22,6 +23,7 @@ function App() {
             <Route path='/contactus' element={<ContactUs/>}/>
             <Route path='/signin' element={<SignIn/>}/>
             <Route path='/login' element={<Login/>}/>
+            <Route path='/aboutus' element={<AboutUs/>}/>
           </Routes>
 
       </Router>

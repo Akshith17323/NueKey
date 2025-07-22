@@ -15,9 +15,14 @@ function Navbar() {
             <div className='logo text-2xl sm:flex sm:justify-center sm:items-center'><a href="/">NueKey</a></div>
             <div className='md:flex hidden gap-4 items-center cursor-pointer'>
               <a onClick={(e)=>{e.preventDefault(); navigate('/hero')}}>Home</a>
+              
               <a className="link-item nav-animate cursor-pointer">Wishlist</a>
-              <a className='link-item nav-animate cursor-pointer'>About Us</a>
-              <a className="link-item nav-animate cursor-pointer">Contact Us</a>
+
+              <a className='link-item nav-animate cursor-pointer' onClick={(e)=> {e.preventDefault() 
+                  navigate('/aboutus')}}>About Us</a>
+
+              <a className="link-item nav-animate cursor-pointer" onClick={(e)=> {e.preventDefault() 
+                  navigate('/contactus')}}>Contact Us</a>
             </div>
             <div className='flex gap-1'>
                 <button className=" cursor-pointer nav-animate  rounded-lg h-8 px-3 border border-black hover:bg-white hover:text-stone-950 transition" 
@@ -41,6 +46,7 @@ function Navbar() {
                   setMenu(false); 
                   console.log('menu hidden')}}>Wishlist</p>
                 <a className='link-item nav-animate' onClick={(e)=> {e.preventDefault() 
+                  navigate('/aboutus')
                   setMenu(false)}}>About Us</a>
 
                 <a className="link-item nav-animate" onClick={(e)=> {e.preventDefault() 

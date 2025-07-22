@@ -5,6 +5,7 @@ import Contactform from "./Contactform";
 import FeatureProducts from "./FeatureProducts";
 import PropertyCard from "./PropertyCard";
 import SearchBar from "./SearchBar";
+import UpcomingFeatures from "./UpcomingFeatures";
 
 function Landing() {
   return (
@@ -37,6 +38,7 @@ function Landing() {
       <section className="flex flex-col items-center">
       <FeatureProducts/>
       <Contactform />
+      <UpcomingFeatures/>
       <Footer/>
       </section>
     </main>
