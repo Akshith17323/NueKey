@@ -24,7 +24,7 @@ export default function Login() {
     try {
       await signInWithEmailAndPassword(auth, form.email, form.password);
       alert('Login successful!');
-      navigate('/home');
+      navigate('/hero');
     } catch (err) {
       console.error(err);
       if (err.code === 'auth/user-not-found') {

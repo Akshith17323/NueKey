@@ -28,7 +28,7 @@ function Navbar() {
                 <button className=" cursor-pointer nav-animate  rounded-lg h-8 px-3 border border-black hover:bg-white hover:text-stone-950 transition" 
                 onClick={(e)=>{
                   e.preventDefault()
-                  navigate('/signin')
+                  navigate('/login')
                 }}>
                 SignIn
                 </button>

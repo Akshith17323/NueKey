@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useNavigate, Link } from 'react-router-dom';
 import { createUserWithEmailAndPassword, updateProfile } from 'firebase/auth';
-import { auth } from '../Components/firebase'; // adjust path if needed
+import { auth } from '../Components/firebase'; 
 
 export default function Signup() {
   const navigate = useNavigate();
@@ -41,7 +41,7 @@ export default function Signup() {
       });
 
       alert('Account created successfully!');
-      navigate('/home');
+      navigate('/hero');
     } catch (err) {
       console.error(err);
       if (err.code === 'auth/email-already-in-use') {

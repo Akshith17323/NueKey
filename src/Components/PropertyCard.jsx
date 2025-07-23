@@ -28,7 +28,7 @@ function PropertyCard({ property }) {
 
         <button className="mt-2 self-start px-4 py-2 rounded bg-white text-black hover:bg-black hover:text-white transition "
         onClick={(e)=> {e.preventDefault() 
-                  navigate('/propertydetails')}}>
+                  navigate(`/propertydetails/${property.id}`)}}>
           View Details
         </button>
       </div>

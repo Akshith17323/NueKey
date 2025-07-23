@@ -2,6 +2,8 @@ import React from 'react'
 import TechStacks from './TechStacks'
 import UpcomingFeatures from './UpcomingFeatures'
 import Footer from './Footer'
+import FAQSection from './FAQs'
+import Testimonials from './Testimonials'
 
 function AboutUs() {
   return (
@@ -15,7 +17,10 @@ function AboutUs() {
             </p>
         </div>
         <TechStacks/>
+        <FAQSection/>
+        <Testimonials/>
         <UpcomingFeatures/>
+
         <Footer/>
     </main>
   )

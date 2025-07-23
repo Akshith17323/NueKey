@@ -6,8 +6,10 @@ import FeatureProducts from "./FeatureProducts";
 import PropertyCard from "./PropertyCard";
 import SearchBar from "./SearchBar";
 import UpcomingFeatures from "./UpcomingFeatures";
+import {useNavigate} from "react-router-dom";
 
 function Landing() {
+  const nav = useNavigate()
   return (
     <main className="bg-[url('src/Assests/Key_to_a_door.jpg')] bg-cover bg-center h-screen overflow-auto hide-scrollbar ">
       <section className="flex items-center justify-center h-full gap-16  md:flex-col rounded">
@@ -26,7 +28,7 @@ function Landing() {
             <p className="text-base md:text-xl color-[#282e24] m-2 text-center">
               Welcome to where your story truly begins.
             </p>
-            <button className="color-[#282e24]  rounded-lg h-8 px-3 border border-black hover:bg-white hover:text-stone-950  max-w-60 ">
+            <button onClick={()=> {nav('/signup')}} className="color-[#282e24]  rounded-lg h-8 px-3 border border-black hover:bg-white hover:text-stone-950  max-w-60 ">
                 SignUp
             </button>
           </div>

@@ -5,7 +5,7 @@ import HeroSection from './Components/Herosection';
 import Navbar from './Components/Navbar';
 import PropertyDetails from './Components/PropertyDetails';
 import ContactUs from './Components/ContactUs'
-import SignIn from './Components/SignIn';
+import SignUp from './Components/SignUp';
 import Login from './Components/Login'
 import AboutUs from './Components/AboutUs';
 
@@ -20,10 +20,11 @@ function App() {
             <Route path='/' element={<Landing/>}/>
             <Route path='/hero' element={<HeroSection/>}/>
             <Route path='/contactus' element={<ContactUs/>}/>
-            <Route path='/signin' element={<SignIn/>}/>
+            <Route path='/signup' element={<SignUp/>}/>
             <Route path='/login' element={<Login/>}/>
             <Route path='/aboutus' element={<AboutUs/>}/>
             <Route path='/propertydetails' element={<PropertyDetails/>}/>
+            <Route path="/propertydetails/:id" element={<PropertyDetails />} />
           </Routes>
 
       </Router>
