@@ -1,10 +1,12 @@
 import React from 'react'
 import TechStacks from './TechStacks'
+import UpcomingFeatures from './UpcomingFeatures'
+import Footer from './Footer'
 
 function AboutUs() {
   return (
     <main>
-        <div className="w-full max-w-3xl mx-auto p-6 mt-24 rounded-2xl border border-white/30 backdrop-blur-lg bg-black/45 text-white">
+        <div className="w-full max-w-3xl mx-auto p-6 mt-24  rounded-2xl border border-white/30 backdrop-blur-lg bg-black/45 text-white">
             <h2 className="text-3xl font-semibold text-center mb-6">About Us</h2>
             <p className="text-white/90 leading-7 text-center">
                 Welcome to NueKagi – your trusted destination for finding the perfect home.
@@ -13,6 +15,8 @@ function AboutUs() {
             </p>
         </div>
         <TechStacks/>
+        <UpcomingFeatures/>
+        <Footer/>
     </main>
   )
 }
