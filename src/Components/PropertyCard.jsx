@@ -1,6 +1,8 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 
 function PropertyCard({ property }) {
+  const navigate = useNavigate()
   return (
     <div className="flex flex-col md:flex-row gap-4 p-4 rounded-2xl border border-white/30 bg-black/45 backdrop-blur-lg text-white shadow-lg transform transition duration-300 ease-in-out hover:scale-105 hover:shadow-2xl">
       <img
@@ -24,7 +26,9 @@ function PropertyCard({ property }) {
         <p className="text-sm">{property.bedrooms} BHK • {property.bathrooms} Bath • {property.floorspace_sqft} sqft</p>
         <p className="text-xs italic text-gray-300">{property.listing_status}</p>
 
-        <button className="mt-2 self-start px-4 py-2 rounded bg-white text-black hover:bg-black hover:text-white transition">
+        <button className="mt-2 self-start px-4 py-2 rounded bg-white text-black hover:bg-black hover:text-white transition "
+        onClick={(e)=> {e.preventDefault() 
+                  navigate('/propertydetails')}}>
           View Details
         </button>
       </div>

@@ -3,7 +3,6 @@ import './App.css'
 import Landing from './Components/Landing'
 import HeroSection from './Components/Herosection';
 import Navbar from './Components/Navbar';
-import Footer from './Components/Footer';
 import PropertyDetails from './Components/PropertyDetails';
 import ContactUs from './Components/ContactUs'
 import SignIn from './Components/SignIn';
@@ -24,6 +23,7 @@ function App() {
             <Route path='/signin' element={<SignIn/>}/>
             <Route path='/login' element={<Login/>}/>
             <Route path='/aboutus' element={<AboutUs/>}/>
+            <Route path='/propertydetails' element={<PropertyDetails/>}/>
           </Routes>
 
       </Router>

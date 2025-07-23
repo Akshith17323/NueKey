@@ -23,6 +23,20 @@ function UpcomingFeatures() {
             for users interested in high-demand properties.
           </p>
         </div>
+
+        <div className="p-6 rounded-2xl border border-white/30 backdrop-blur-lg bg-black/45 text-white">
+          <h3 className="text-2xl font-semibold mb-2">Side Comparision with properties</h3>
+          <p className="text-white/90">
+            A side to side comaprision of properties of your liking to compare
+          </p>
+        </div>
+
+        <div className="p-6 rounded-2xl border border-white/30 backdrop-blur-lg bg-black/45 text-white">
+          <h3 className="text-2xl font-semibold mb-2">More Featires in developemnt Stage</h3>
+          <p className="text-white/90">
+            ......................
+          </p>
+        </div>
       </div>
     </div>
   );
