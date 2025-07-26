@@ -7,7 +7,7 @@ function PropertyList() {
   const [filtered, setFiltered] = useState([]);
 
   useEffect(() => {
-    fetch('src/Assests/Properties/real_estate_varied_attributes.json')
+    fetch('https://mocki.io/v1/f2e21e71-961a-4814-8c84-846060446e2c')
       .then((res) => res.json())
       .then((data) => {
         setAllProperties(data.properties);
