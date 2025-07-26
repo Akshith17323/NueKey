@@ -1,5 +1,5 @@
 import React from 'react'
-import PropertyList from './PropertyLIst'
+import PropertyList from './PropertyList'
 
 function HeroSection() {
   return (
