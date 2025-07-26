@@ -33,6 +33,9 @@ function TechStacks() {
                 <div className="p-4 rounded-xl bg-white/10 hover:bg-white/20 transition text-center">
                     <p className="font-semibold text-white">Netlify / Vercel</p>
                 </div>
+                <div className="p-4 rounded-xl bg-white/10 hover:bg-white/20 transition text-center">
+                    <p className="font-semibold text-white">Mock API</p>
+                </div>
                 </div>
             </div>
             </div>
